@@ -23,7 +23,7 @@
             android:layout_height="wrap_content"
             android:text="(1999년생)"
             android:textColor="#303030"
-            android:textSize="5sp"/>
+            android:textSize="12sp"/>
 
     </LinearLayout>
 
